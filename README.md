@@ -1,5 +1,5 @@
-### 🥁 drumKit
+## 🥁 drumKit
 
 <hr>
 
-<a href="https://mahiprasad.github.io/drumKit/"> Visit the website. ↗️ </a>
+<a href="https://mahiprasad.github.io/drumKit/" target = "_blank"> Visit the website. ↗️ </a>
